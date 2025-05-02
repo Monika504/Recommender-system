@@ -3,6 +3,9 @@
 
 This project builds a content-based movie recommendation system using the TMDB 5000 Movies Dataset. The system suggests similar movies based on their genres, keywords, cast, and crew, helping users discover films related to their interests.
 
+**Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, CountVectorizer, Cosine Similarity, Jupyter Notebook
+
+
 The dataset consists of two main files:
 
 _tmdb_5000_movies.csv_ – Contains movie metadata like overview, genres, and keywords.
